@@ -1,0 +1,1 @@
+This file contains a list of websites we may want to consider implementing, and info about their api's.
